@@ -1,0 +1,2 @@
+# sct
+Starting CMake templates
